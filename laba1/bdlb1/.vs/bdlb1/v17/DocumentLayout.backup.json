@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VisualStudio\\bdlb1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62525637-6747-465D-9683-C4FCE81D5E90}|bdlb1\\bdlb1.csproj|e:\\visualstudio\\bdlb1\\bdlb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62525637-6747-465D-9683-C4FCE81D5E90}|bdlb1\\bdlb1.csproj|solutionrelative:bdlb1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\VisualStudio\\bdlb1\\bdlb1\\Program.cs",
+              "RelativeDocumentMoniker": "bdlb1\\Program.cs",
+              "ToolTip": "E:\\VisualStudio\\bdlb1\\bdlb1\\Program.cs*",
+              "RelativeToolTip": "bdlb1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T19:15:19.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
