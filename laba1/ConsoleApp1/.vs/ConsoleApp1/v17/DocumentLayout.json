@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bogda\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\bogda\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\databases\\laba1\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92EC8ABC-E238-44EB-A5E0-C2A692E65EDA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\bogda\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92EC8ABC-E238-44EB-A5E0-C2A692E65EDA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bogda\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\databases\\laba1\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\databases\\laba1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\bogda\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\OneDrive\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\databases\\laba1\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAmwI0AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T13:03:49.503Z",
               "EditorCaption": ""
